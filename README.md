@@ -13,9 +13,8 @@ Actuellement élève ingénieur spécialisé dans le domaine de l'informatique &
 
 # mes languages et mes outils de travails :
 * Languages :
-![<img height='40'>](https://github.com/bil-ela/bil-ela/blob/main/python-original-wordmark.svg)
-![<img height='40'>](https://github.com/bil-ela/bil-ela/blob/main/r-original.svg)
-
+[<img src = 'https://github.com/bil-ela/bil-ela/blob/main/python-original-wordmark.svg' alt ='Python' height='40'>]
+[<img src = 'https://github.com/bil-ela/bil-ela/blob/main/r-original.svg' alt = 'Python' height='40'>]
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bilal-el-abdellaoui-277287218//)  
