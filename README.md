@@ -1,5 +1,4 @@
 ![](https://github.com/bil-ela/bil-ela/blob/main/Bilal.png)
-### bienvenue sur mon GitHub
 
 # à propos de moi :
 
