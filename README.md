@@ -13,7 +13,8 @@ Actuellement élève ingénieur spécialisé dans le domaine de l'informatique &
 
 # mes languages et mes outils de travails :
 * Languages :
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fpython-4.svg&tbnid=Bg4BMw4V23LTWM&vet=12ahUKEwi8l7TFqdn-AhUxRuUKHRlVCMUQMygCegUIARDgAQ..i&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fpython-4&docid=wwhu8KcvandhoM&w=716&h=800&q=logo%20python&client=safari&ved=2ahUKEwi8l7TFqdn-AhUxRuUKHRlVCMUQMygCegUIARDgAQ)' alt='Python' height='40'>]
+![](https://github.com/bil-ela/bil-ela/blob/main/python-original-wordmark.svg)
+![](https://github.com/bil-ela/bil-ela/blob/main/r-original.svg)
 
 
 
