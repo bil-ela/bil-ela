@@ -13,10 +13,15 @@ Actuellement élève ingénieur spécialisé dans le domaine de l'informatique &
 
 # mes languages et mes outils de travails :
 * Languages :
-<img src = 'https://github.com/bil-ela/bil-ela/blob/main/python-original-wordmark.svg' alt ='Python' height='80'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/r-original.svg' alt = 'R' height='80'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/java-original-wordmark.svg' alt = 'Java' height='80'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/c-line.svg' alt = 'C' height='80'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/latex-original.svg' alt = 'Latex' height='80'>
+*
+<img src = 'https://github.com/bil-ela/bil-ela/blob/main/python-original-wordmark.svg' alt ='Python' height='60'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/r-original.svg' alt = 'R' height='60'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/java-original-wordmark.svg' alt = 'Java' height='60'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/c-line.svg' alt = 'C' height='60'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/latex-original.svg' alt = 'Latex' height='60'>
 
 * Frameworks :
-<img src = 'https://github.com/bil-ela/bil-ela/blob/main/latex-original.svg' alt = 'Latex' height='80'>
+* 
+<img src = 'https://github.com/bil-ela/bil-ela/blob/main/numpy-original-wordmark.svg' alt = 'Numpy' height='60'>
+<img src = 'https://github.com/bil-ela/bil-ela/blob/main/pandas-original-wordmark.svg' alt = 'Pandas' height='60'>
+<img src = 'https://github.com/bil-ela/bil-ela/blob/main/tensorflow-original-wordmark.svg' alt = 'Tensorflow' height='60'>
+
 
 
 
