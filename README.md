@@ -1,10 +1,12 @@
-### bienvenue sur mon GitHub
 ![](https://github.com/bil-ela/bil-ela/blob/main/Bilal.png)
+### bienvenue sur mon GitHub
 
 # à propos de moi :
+
 - 🔭 Actuellement à l'Université Technique de Prague afin de mener des recherches sur les séries temporelles appliqués au domaine de la finance. 
 - 🌱 En pleine apprentissage du piano et de la photographie 
 - 📫 Me contacter : bilal.el-abdellaui@mines-ales.org 
+
 
 # mes languages et mes outils de travails :
 
