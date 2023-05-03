@@ -34,6 +34,6 @@ Actuellement élève ingénieur spécialisé dans le domaine de l'informatique &
  
 * Musique & Vidéo :
  
- <img src = 'https://github.com/bil-ela/bil-ela/blob/main/fl-studio2.jpeg' alt = 'FL Studio' height='60'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/premierepro-original.svg' alt = 'Premiere Pro' height='60'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/aftereffects-original.svg' alt = 'After Effect' height='60'>
+ <img src = 'https://github.com/bil-ela/bil-ela/blob/main/fl-studio.png' alt = 'FL Studio' height='60'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/premierepro-original.svg' alt = 'Premiere Pro' height='60'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/aftereffects-original.svg' alt = 'After Effect' height='60'>
 
 
