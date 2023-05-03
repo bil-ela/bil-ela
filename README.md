@@ -9,7 +9,7 @@ Actuellement élève ingénieur spécialisé dans le domaine de l'informatique &
 
 # à propos de moi :
 
-- 🔭 Actuellement à l'Université Technique de Prague afin de mener des recherches sur les séries temporelles appliqués au domaine de la finance. 
+- 🔭 Actuellement à l'Université Technique de Prague afin de mener des recherches sur les séries temporelles appliquées au domaine de la finance. 
 - 🎵 Amateur de musique & cinéphile
 - 📫 Me contacter : bilal.el-abdellaui@mines-ales.org 
 
