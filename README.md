@@ -13,8 +13,8 @@ Actuellement élève ingénieur spécialisé dans le domaine de l'informatique &
 
 # mes languages et mes outils de travails :
 * Languages :
-![](https://github.com/bil-ela/bil-ela/blob/main/python-original-wordmark.svg)
-![](https://github.com/bil-ela/bil-ela/blob/main/r-original.svg)
+![height='40'](https://github.com/bil-ela/bil-ela/blob/main/python-original-wordmark.svg)
+![height='40'](https://github.com/bil-ela/bil-ela/blob/main/r-original.svg)
 
 
 
