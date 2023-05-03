@@ -1,16 +1,16 @@
-### Hi there 👋
+### bienvenue sur mon GitHub
+![](https://github.com/bil-ela/bil-ela/blob/main/Bilal.png)
 
-<!--
-**bil-ela/bil-ela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# à propos de moi :
+- 🔭 Actuellement à l'Université Technique de Prague afin de mener des recherches sur les séries temporelles appliqués au domaine de la finance. 
+- 🌱 En pleine apprentissage du piano et de la photographie 
+- 📫 Me contacter : bilal.el-abdellaui@mines-ales.org 
 
-Here are some ideas to get you started:
+# mes languages et mes outils de travails :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bilal-el-abdellaoui-277287218//)  
+
+
