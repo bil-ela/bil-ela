@@ -13,8 +13,11 @@ Actuellement élève ingénieur spécialisé dans le domaine de l'informatique &
 
 # mes languages et mes outils de travails :
 * Languages :
-<img src = 'https://github.com/bil-ela/bil-ela/blob/main/python-original-wordmark.svg' alt ='Python' height='80'>
-[<img src = 'https://github.com/bil-ela/bil-ela/blob/main/r-original.svg' alt = 'Python' height='80'>
+<img src = 'https://github.com/bil-ela/bil-ela/blob/main/python-original-wordmark.svg' alt ='Python' height='80'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/r-original.svg' alt = 'R' height='80'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/java-original-wordmark.svg' alt = 'Java' height='80'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/c-line.svg' alt = 'C' height='80'> <img src = 'https://github.com/bil-ela/bil-ela/blob/main/latex-original.svg' alt = 'Latex' height='80'>
+
+* Frameworks :
+<img src = 'https://github.com/bil-ela/bil-ela/blob/main/latex-original.svg' alt = 'Latex' height='80'>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bilal-el-abdellaoui-277287218//)  
