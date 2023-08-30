@@ -9,7 +9,7 @@ Actuellement élève ingénieur spécialisé dans le domaine de l'informatique &
 
 # à propos de moi :
 
-- 🔭 Actuellement en Martinique pour mener des recherches sur la Cercosporiose noir du bananier. 
+- 🔭 Actuellement en Martinique pour mener des recherches sur la cercosporiose noire du bananier (Mycosphaerella fijiensis). 
 - 🎵 Amateur de musique & cinéphile
 - 📫 Me contacter : bilal.el-abdellaoui@mines-ales.org 
 
